@@ -4,7 +4,7 @@ my-mis-rep
 # will be updating this project shortly 
 
 
-# more projects that i have on my PC will be updated soon 
+# i meant yesterday but u know  
 
 
 # will be out shortly 
