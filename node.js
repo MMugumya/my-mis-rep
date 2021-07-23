@@ -1,2 +1,2 @@
 user_name="mugumya"
-console.log(name)
+console.log(user_name)
